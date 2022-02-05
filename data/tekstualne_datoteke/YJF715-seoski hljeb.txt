@@ -1,0 +1,6 @@
+YJF715
+stefo
+seoski hljeb
+peciva
+['250 g speltinog integralnog brašna', '50 g ječmeno brašno', '50 g kukuruznog brašna', '50 g heljdino brašna', '1 kašika susama', '3 kašike lanenog ulja', '300 ml mlake kisele vode', '300 ml mlake kisele vode', '1 kesicu praška za pecivo', '1 kašičicu soli', '1 kašiku kisele vode']
+['pomešati sva brašna, semenke, ulje i kiselu vodu kašikom i ostaviti testo poklopljeno da fermentiše 8 časova ili više.', 'pre pečenja, uključiti rernu na 200 stepeni. uzeti šerpu sa poklopcem i obložiti papirom za pečenje i posoliti malo brašno na papir.', 'sada u testo dodati prašak za pecivo, kašiku kisele vode i so i lepo sjediniti. testo izliti u u šerpu malo oblikovati i pobrašniti odozgo, poklopiti poklopcem i staviti da se peče oko 45 minuta, ako nije baš rumen skinuti poklopac. gotov hleb uviti u krpu da se skroz ohladi pa rezati.']

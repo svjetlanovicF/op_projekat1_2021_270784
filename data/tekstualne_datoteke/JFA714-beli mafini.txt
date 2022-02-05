@@ -1,0 +1,6 @@
+JFA714
+mico
+beli mafini
+desert
+['1 šolja (od 2 dl) belanaceta', '1 šolja (2 prsta od vrha puna) prah šećera', '1 kesica burbon vanile', '1 kesica burbon vanile', '2 kašike rastopljenog putera', '1 šolja mlevenog badema ili oraha', '1 šolja suvog grožđa, belog', '1 šolja seckane mlečne čokolade', '1/2 šolje brašna mekog tip-500', '1/2 šolje brašna mekog tip-500', '1 prstohvat soli', '1 kesica praška za pecivo']
+['prvo belanca stavite na sat vremena u frižider. šolju sam koristila onu don-kafe i otprilike je 5 većih jaja jedna šolja. umutite hladna belanca sa prstohvatom soli i šećerom u prahu i burbon vanilom u čvrst sneg. umešajte polako puter. u drugom sudu sjedinite brašno, pecivo, mleveni badem ili orah, čokoladu i suvo grožđe. kašiku po kašiku polako dodajte masi od belanaca. kada ste sve sjedinili sipajte u kalup za mafine.', 'pecite na 170 stepeni 25 minuta ne otvarajući rernu. pečeno ostavite u kalupu dok se ne ohladi da bude sasvim mlako.', 'umočite blago u prah šećer svaki mafin. ne treba da posipate jer nije potrebno puno prah šećera. od ove mase ispadne 12 mafina onih većih.']

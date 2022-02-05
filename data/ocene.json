@@ -1,0 +1,32 @@
+[
+    {
+        "sifra": "ABT342",
+        "korisnik": "milkica",
+        "ocena": 5,
+        "komentar": "Izvrsno"
+    },
+    {
+        "sifra": "ABT342",
+        "korisnik": "vule",
+        "ocena": 4,
+        "komentar": "Svidja mi se. Pojeo bih opet"
+    },
+    {
+        "sifra": "ABT342",
+        "korisnik": "mico",
+        "ocena": 5,
+        "komentar": "Izvrsno"
+    },
+    {
+        "sifra": "ABT342",
+        "korisnik": "fipas",
+        "ocena": 4,
+        "komentar": "Sjajno"
+    },
+    {
+        "sifra": "ABT342",
+        "korisnik": "vule",
+        "ocena": 4,
+        "komentar": "Sjajno"
+    }
+]

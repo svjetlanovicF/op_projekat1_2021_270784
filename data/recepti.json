@@ -1,0 +1,92 @@
+[
+    {
+        "sifra": "ABT342",
+        "korisnik": "vule",
+        "naziv": "slane palacinke sa tikvicama",
+        "kategorija": "predjelo",
+        "sastojci": [
+            "1 manja tikvica",
+            "1 jaje",
+            "1 kasika maslinovog ulja",
+            "120 g grckog jogurta",
+            "1/2 kasicice pra\u0161ka za pecivo",
+            "1/4 kasicice sode bikarbone",
+            "50 g brasna",
+            "po ukusu so",
+            "po ukusu biber"
+        ],
+        "koraci": [
+            "tikvicu izrendati (ne treba da cekate da pusti vodu), dodati joj jaje, ulje i jogurt. sve sjediniti pa dodati brasno pomesano sa praskom za pecivo i sodom bikarbonom, pa zasiniti po ukusu. prziti u tiganju na malo ulja koje ste predhodno zagrejali na maksimumu pa temp spustiti npr kod mene je 6od9, vidite prema vasem sporetu, da bi sa obe strane bilo jednako peceno, a da unutra ne ostane zivo. staviti po jednu i po kasiku smese, kada se pojave mehurici okrenuti."
+        ]
+    },
+    {
+        "sifra": "YJF715",
+        "korisnik": "stefo",
+        "naziv": "seoski hljeb",
+        "kategorija": "peciva",
+        "sastojci": [
+            "250 g speltinog integralnog bra\u0161na",
+            "50 g je\u010dmeno bra\u0161no",
+            "50 g kukuruznog bra\u0161na",
+            "50 g heljdino bra\u0161na",
+            "1 ka\u0161ika susama",
+            "3 ka\u0161ike lanenog ulja",
+            "300 ml mlake kisele vode",
+            "300 ml mlake kisele vode",
+            "1 kesicu pra\u0161ka za pecivo",
+            "1 ka\u0161i\u010dicu soli",
+            "1 ka\u0161iku kisele vode"
+        ],
+        "koraci": [
+            "pome\u0161ati sva bra\u0161na, semenke, ulje i kiselu vodu ka\u0161ikom i ostaviti testo poklopljeno da fermenti\u0161e 8 \u010dasova ili vi\u0161e.",
+            "pre pe\u010denja, uklju\u010diti rernu na 200 stepeni. uzeti \u0161erpu sa poklopcem i oblo\u017eiti papirom za pe\u010denje i posoliti malo bra\u0161no na papir.",
+            "sada u testo dodati pra\u0161ak za pecivo, ka\u0161iku kisele vode i so i lepo sjediniti. testo izliti u u \u0161erpu malo oblikovati i pobra\u0161niti odozgo, poklopiti poklopcem i staviti da se pe\u010de oko 45 minuta, ako nije ba\u0161 rumen skinuti poklopac. gotov hleb uviti u krpu da se skroz ohladi pa rezati."
+        ]
+    },
+    {
+        "sifra": "BFY866",
+        "korisnik": "stevo",
+        "naziv": "mafini sa jafom",
+        "kategorija": "desert",
+        "sastojci": [
+            "2 jajeta",
+            "1 dl ulja",
+            "1 dl ulja",
+            "1 dl ulja",
+            "300 ml jogurta",
+            "50 ml mleka",
+            "220 g bra\u0161na",
+            "100 g \u0161e\u0107era",
+            "1 kesica pra\u0161ka za pecivo",
+            "1 kesica pra\u0161ka za pecivo",
+            "2 kese mini jafa keksa",
+            "18 ka\u0161i\u010dica d\u017eema od kajsije",
+            "150 g \u010dokolade za me\u0161enje"
+        ],
+        "koraci": [
+            "150 g \u010dokolade za me\u0161enje",
+            "u posudu za me\u0161enje dodati bra\u0161no, pra\u0161ak za pecivo i \u0161e\u0107er i izme\u0161ati ka\u0161ikom. u drogoj posudi sjediniti ulje, mleko, jogurt i jaja. lagano umutiti kratko mikserom i dodati u smesu sa bra\u0161nom. sve kratko umutiti mikserom da se dobije ujedna\u010dena smesa. treba da bude malo gu\u0161\u0107a od smese za pala\u010dinke (po potrebi dodati malo jogurta).",
+            "u pleh za mafine staviti papirne korpice za pe\u010denje. u svaku korpicu staviti po jedan jafa keks sa \u010dokoladom okrenutom na gore. preko staviti malo smese, pa rasporediti d\u017eem od kajsije. korpicu dopuniti smesom, ali ne do vrha (da ostane malo mesta da naraste prilikom pe\u010denja). pe\u0107i na 180 stepeni 35 minuta. gotove mafine preliti istopljenom \u010dokoladom."
+        ]
+    },
+    {
+        "sifra": "HNL475",
+        "korisnik": "vule",
+        "naziv": "omlet",
+        "kategorija": "dorucak",
+        "sastojci": [
+            "3 jaja",
+            "sol",
+            "ulje",
+            "sunka",
+            "sir"
+        ],
+        "koraci": [
+            "prvo umutimo jaja",
+            "stavimo ulje u tavu",
+            "nasjecemo sir i sunku",
+            "dodamo sol",
+            "ispecemo jaja"
+        ]
+    }
+]

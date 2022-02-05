@@ -1,0 +1,6 @@
+BFY866
+stevo
+mafini sa jafom
+desert
+['2 jajeta', '1 dl ulja', '1 dl ulja', '1 dl ulja', '300 ml jogurta', '50 ml mleka', '220 g brašna', '100 g šećera', '1 kesica praška za pecivo', '1 kesica praška za pecivo', '2 kese mini jafa keksa', '18 kašičica džema od kajsije', '150 g čokolade za mešenje']
+['150 g čokolade za mešenje', 'u posudu za mešenje dodati brašno, prašak za pecivo i šećer i izmešati kašikom. u drogoj posudi sjediniti ulje, mleko, jogurt i jaja. lagano umutiti kratko mikserom i dodati u smesu sa brašnom. sve kratko umutiti mikserom da se dobije ujednačena smesa. treba da bude malo gušća od smese za palačinke (po potrebi dodati malo jogurta).', 'u pleh za mafine staviti papirne korpice za pečenje. u svaku korpicu staviti po jedan jafa keks sa čokoladom okrenutom na gore. preko staviti malo smese, pa rasporediti džem od kajsije. korpicu dopuniti smesom, ali ne do vrha (da ostane malo mesta da naraste prilikom pečenja). peći na 180 stepeni 35 minuta. gotove mafine preliti istopljenom čokoladom.']
